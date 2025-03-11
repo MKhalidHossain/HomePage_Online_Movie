@@ -23,8 +23,8 @@ The repository includes the following directories:
 - **linux/**: Contains Linux-specific configurations and code.
 - **macos/**: Contains macOS-specific configurations and code.
 - **windows/**: Contains Windows-specific configurations and code.
-
-## Dependencies
+## Output  
+![Image](https://github.com/user-attachments/assets/15ef9a58-3b7b-4ca7-b089-1b69ca501b7c)    
 
 The project's dependencies are listed in the `pubspec.yaml` file. Ensure you have Flutter installed and run the following command to fetch the dependencies:
 
@@ -49,3 +49,5 @@ flutter run -d macos
 flutter run -d windows
 Feel free to customize this **README.md** further to align with your project's specifics.
 ::contentReference[oaicite:0]{index=0}
+ 
+ 
